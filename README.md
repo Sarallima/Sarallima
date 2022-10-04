@@ -1,7 +1,7 @@
 ## Olá, meu nome é Sara.
 
 
-<div style="display: inline_block"><br>
+<div align="center">
 <div>
   <img align="center" alt="Rafa-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
